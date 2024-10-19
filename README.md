@@ -1,3 +1,3 @@
 # GoogleColabPublic
 
-In this repository, I am strong google colab python files
+In this repository, I am storing google colab python files
